@@ -28,7 +28,6 @@
 ║  🌐  Web Developer — PHP, JavaScript, Python, SQL             ║
 ║  🎮  Sometimes building games with Unity & C#                 ║
 ║  🔧  Exploring Networking (Cisco) & Server Admin (Linux/Docker)║
-║  🎵  EDM & Future Bounce Music Producer                       ║
 ║  📍  Batam, Riau, Indonesia                                    ║
 ╚ ══════════════════════════════════════════════════════════════  ╝
 ```
@@ -114,9 +113,6 @@
 <p align="center">
   <a href="https://github.com/senjaikuyo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-senjaikuyo-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/artist/YOUR_SPOTIFY_ARTIST_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Musuko%20Khairiy-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
