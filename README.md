@@ -23,15 +23,14 @@
 ## 🧑‍💻 About Me
 
 ```txt
-╔══════════════════════════════════════════════════════════════╗
-║  🎓  Software Engineering Student @ Polibatam (TRPL)         ║
-║  🌐  Web Developer — PHP, JavaScript, Python, SQL            ║
-║  🎮  Sometimes building games with Unity & C#                ║
-║  🔧  Exploring Networking (Cisco) & Server Admin (Linux/Docker)  ║
-║  🎵  EDM & Future Bounce Music Producer                      ║
-║  🎧  Listen: Musuko Khairiy on Spotify                       ║
-║  📍  Batam, Riau, Indonesia                                  ║
-╚══════════════════════════════════════════════════════════════╝
+╔ ═════════════════════════════════════════════════════════════ ═╗
+║  🎓  Software Engineering Student @ Polibatam (TRPL)          ║
+║  🌐  Web Developer — PHP, JavaScript, Python, SQL             ║
+║  🎮  Sometimes building games with Unity & C#                 ║
+║  🔧  Exploring Networking (Cisco) & Server Admin (Linux/Docker)║
+║  🎵  EDM & Future Bounce Music Producer                       ║
+║  📍  Batam, Riau, Indonesia                                    ║
+╚ ══════════════════════════════════════════════════════════════  ╝
 ```
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -40,7 +39,6 @@
 - 🌱 Learning **Laravel**, **React**, **Flask**, and **Docker**
 - 🗄️ Love designing **Database ERD** and **role-based access systems**
 - 🌙 Fun fact: Late-night coding sessions are totally my thing
-- 🎵 Check my music → **[Musuko Khairiy on Spotify](https://open.spotify.com/artist/YOUR_SPOTIFY_ARTIST_ID)**
 
 <br clear="right"/>
 
@@ -63,20 +61,15 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,figma,postman&theme=dark&perline=6" />
 </p>
 
-### 🎵 Audio Production
-<p>
-  <img src="https://img.shields.io/badge/FL%20Studio-FF6B00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senjaikuyo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjaikuyo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=senjaikuyo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
@@ -86,9 +79,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senjaikuyo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
+  </a>
+</p>
 
 ---
 
