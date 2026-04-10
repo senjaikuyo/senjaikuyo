@@ -79,11 +79,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=senjaikuyo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="senjaikuyo" />
-  </a>
-</div>
+<img src="https://trophy.ryglcloud.net/?username=senjaikuyo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 ---
 
