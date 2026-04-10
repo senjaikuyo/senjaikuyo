@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=🎓+Software+Engineering+%40+Polibatam;💻+PHP+%7C+JavaScript+%7C+Python+Dev;🎮+Unity+%26+C%23+Game+Dev+Aspirant;🎵+EDM+%26+Future+Bounce+Producer" alt="Typing SVG" />
   </a>
 </p>
 
