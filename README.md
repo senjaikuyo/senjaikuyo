@@ -3,12 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=senjaikuyo&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Game%20Dev%20Aspirant%20%7C%20Music%20Producer&descSize=16&descAlignY=60&descColor=8b949e" />
 </div>
 
-<!-- Typing SVG Animation -->
-<div align="center">
-  <a href="https://github.com/senjaikuyo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=🎓+Software+Engineering+%40+Polibatam;💻+PHP+%7C+JavaScript+%7C+Python+Dev;🎮+Unity+%26+C%23+Game+Dev+Aspirant;🐧+Linux+%7C+Docker+%7C+Cisco+Explorer;🎵+EDM+%26+Future+Bounce+Producer" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi+namaku+afif+hamzah;selamat+datang+di+profilku)](https://git.io/typing-svg)
 
 <!-- Visitor Counter & Badges -->
 <div align="center">
