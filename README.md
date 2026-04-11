@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi+namaku+afif+hamzah;selamat+datang+di+profilku" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=you+can+see+hidden+gem+in+here;welcome+to+my+peak+profile" alt="Typing SVG" />
   </a>
 </p>
 
