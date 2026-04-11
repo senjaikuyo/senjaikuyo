@@ -33,7 +33,7 @@
 ```
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
+<br/>
 - 🔭 Currently working on **KasWarga** & **V-EX Virtual Exhibition** web apps
 - 🌱 Learning **Laravel**, **React**, **Flask**, and **Docker**
 - 🗄️ Love designing **Database ERD** and **role-based access systems**
@@ -82,39 +82,13 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senjaikuyo/senjaikuyo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senjaikuyo/senjaikuyo/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/senjaikuyo/senjaikuyo/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff)](https://open.spotify.com/artist/YOUR_SPOTIFY_ARTIST_ID)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senjaikuyo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/senjaikuyo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-senjaikuyo-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:afifsiregar27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
