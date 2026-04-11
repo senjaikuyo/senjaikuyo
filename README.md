@@ -90,7 +90,7 @@
   <a href="https://github.com/senjaikuyo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-senjaikuyo-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="mailto:afifsiregar27@gmail.com?subject=Halo%20Afif!&body=Hi%2C%20I%20found%20your%20GitHub%20profile..." target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=afifsiregar27@gmail.com&su=Halo%20Afif!" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
