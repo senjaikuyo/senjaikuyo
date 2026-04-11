@@ -32,7 +32,7 @@
 ╚ ══════════════════════════════════════════════════════════════  ╝
 ```
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00MnV5bHBpdWIxcTVkbGs3eTFrMzk2ZHl2bzFzdXJ0NnhzdjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif" />
 
 <br clear="center"/>
 
