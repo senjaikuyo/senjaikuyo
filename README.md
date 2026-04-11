@@ -90,10 +90,9 @@
   <a href="https://github.com/senjaikuyo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-senjaikuyo-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:afifsiregar27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:afifsiregar27@gmail.com?subject=Halo%20Afif!&body=Hi%2C%20I%20found%20your%20GitHub%20profile..." target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" />
