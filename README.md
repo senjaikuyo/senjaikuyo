@@ -34,7 +34,7 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br clear="right"/>
+<br clear="center"/>
 
 - 🔭 Currently working on **KasWarga** & **V-EX Virtual Exhibition** web apps
 - 🌱 Learning **Laravel**, **React**, **Flask**, and **Docker**
