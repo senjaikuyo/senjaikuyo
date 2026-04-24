@@ -78,12 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://trophy.ryglcloud.net/?username=senjaikuyo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
