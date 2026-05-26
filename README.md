@@ -20,26 +20,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```txt
-╔ ═════════════════════════════════════════════════════════════ ═╗
-║  🎓  Software Engineering Student @ Polibatam (TRPL)          ║
-║  🌐  Web Developer — PHP, JavaScript, Python, SQL             ║
-║  🎮  Sometimes building games with Unity & C#                 ║
-║  🔧  Exploring Networking (Cisco) & Server Admin (Linux/Docker)║
-║  📍  Batam, Riau, Indonesia                                    ║
-╚ ══════════════════════════════════════════════════════════════  ╝
+╔══════════════════════════════════════════════════════════════╗
+║  🎓  Software Engineering Student @ Polibatam (TRPL)         ║
+║  🌐  Web Developer — PHP, JavaScript, Python, SQL            ║
+║  🎮  Sometimes building games with Unity & C#                ║
+║  🔧  Server Admin (Linux/Docker)                             ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img align="right" alt="Coding GIF" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00MnV5bHBpdWIxcTVkbGs3eTFrMzk2ZHl2bzFzdXJ0NnhzdjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif" />
 
 <br clear="center"/>
 
-- 🔭 Currently working on **KasWarga** & **V-EX Virtual Exhibition** web apps
-- 🌱 Learning **Laravel**, **React**, **Flask**, and **Docker**
-- 🗄️ Love designing **Database ERD** and **role-based access systems**
-- 🌙 Fun fact: Late-night coding sessions are totally my thing
+- 🔭 Currently made a project on **KasWarga** & **V-EX Virtual Exhibition** web apps
+- 🌱 Currently learning **Laravel**, **React**, **python*** and **arch environtment**
 
 <br clear="right"/>
 
@@ -47,19 +44,19 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Languages & Web Development
+###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,python &theme=dark&perline=6" />
 </p>
 
-### 🎮 Game Dev, Servers & Networking
+###  OS Environtment Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,linux,docker,bash&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,macos,cachyOS bash&theme=dark&perline=5" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,figma,postman&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=6" />
 </p>
 
 ---
