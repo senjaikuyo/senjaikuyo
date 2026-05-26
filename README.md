@@ -51,7 +51,7 @@
 
 ###  OS Environment Development
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,macos,bash&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ Tools
