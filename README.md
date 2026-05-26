@@ -36,7 +36,7 @@
 <br clear="center"/>
 
 - 🔭 Currently made a project on **KasWarga** & **V-EX Virtual Exhibition** web apps
-- 🌱 Currently learning **Laravel**, **React**, **python*** and **arch environtment**
+- 🌱 Currently learning **Laravel**, **React**, **python** and **arch environtment**
 
 <br clear="right"/>
 
@@ -46,12 +46,12 @@
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,python &theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,python&theme=dark&perline=6" />
 </p>
 
-###  OS Environtment Development
+###  OS Environment Development
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,macos,cachyOS bash&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,macos,bash&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ Tools
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=senjaikuyo&theme=darkhub&no-frame=true&margin-w=10" />
   </a>
 </p>
 
