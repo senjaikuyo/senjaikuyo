@@ -63,12 +63,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://github-profile-trophy.vercel.app/?username=senjaikuyo&theme=darkhub&no-frame=true&margin-w=10" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=senjaikuyo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
