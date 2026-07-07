@@ -13,14 +13,11 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,python,react,arch&theme=dark&perline=6" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,laravel,arch,postman,react,javascript,flutter,nextjs" />
+  </a>
 </p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=senjaikuyo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
 
 <p align="center">
   <a href="https://github.com/senjaikuyo" target="_blank">
