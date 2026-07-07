@@ -13,11 +13,6 @@
 
 <br/>
 
-##  About Me
-
-<img align="right" alt="Coding GIF" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00MnV5bHBpdWIxcTVkbGs3eTFrMzk2ZHl2bzFzdXJ0NnhzdjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif" />
-
-
 ## 🛠️ Tech Stack & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=js,php,python,react,arch&theme=dark&perline=6" />
@@ -34,3 +29,8 @@
 <a href="https://mail.google.com/mail/?view=cm&to=afifsiregar27@gmail.com&su=Halo%20Afif!" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/>
+<div align="center">
+  <img align="right" alt="Coding GIF" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00MnV5bHBpdWIxcTVkbGs3eTFrMzk2ZHl2bzFzdXJ0NnhzdjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif" />
+
