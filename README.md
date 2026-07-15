@@ -1,4 +1,4 @@
-hi
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=you+can+see+hidden+gem+in+here;welcome+to+my+peak+profile" alt="Typing SVG" />
